@@ -1,0 +1,24 @@
+streamlit
+python-dotenv
+
+# LangChain core
+langchain==0.3.7
+langchain-community
+langchain-openai
+
+# OpenAI client (used by langchain-openai)
+openai
+
+# Database & vector
+psycopg2-binary
+pgvector
+SQLAlchemy
+
+# Neo4j for knowledge graph
+neo4j
+
+# PDF + OCR
+pymupdf
+pytesseract
+pillow
+langdetect
